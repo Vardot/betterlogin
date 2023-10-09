@@ -1,3 +1,15 @@
+# Better Login
+
+This is a direct fork for the Better Login module
+
+https://www.drupal.org/project/betterlogin
+
+### Following with changes from
+* Issue [#3286226](https://www.drupal.org/project/betterlogin/issues/3286226): Automated Drupal 10 compatibility fixes
+
+Started this Fork module on the `2.0.x` branch
+
+
 CONTENTS OF THIS FILE
 ---------------------
 
