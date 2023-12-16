@@ -2,4 +2,4 @@ name: Better Login
 type: module
 description: Make the login screens better :)
 package: User interface
-core_version_requirement: ~10.1.0
+core_version_requirement: ~10
